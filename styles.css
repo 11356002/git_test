@@ -1,0 +1,16 @@
+header{
+    position: relative;
+    background-image: url(./img/phone.jpg);
+    width: 100%;
+    height:100vh;
+}
+
+.left-panel{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+    background-color: #000;
+    opacity: 0.5;
+    top: 50%;
+}
